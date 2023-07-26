@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479022702181",
+    "project_id": "newapp-692ca",
+    "storage_bucket": "newapp-692ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479022702181:android:454b273c0ad33e5f6b308c",
+        "android_client_info": {
+          "package_name": "sompura.dhruv.chatterbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479022702181-smpmuh3nccb034vetq9bv3l3j2u58j4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaQHCmnSsPYfl6gbIZOk_vK9gMM-cMFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479022702181-smpmuh3nccb034vetq9bv3l3j2u58j4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
