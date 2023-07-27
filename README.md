@@ -1,8 +1,7 @@
 # ChatterBox_Social_Media_App
-A social media app
 
+## 📱 Social Media App - GitHub Project 🚀
 
-📱 Social Media App - GitHub Project 🚀
 
 This project is a feature-rich social media app that enables users to connect and interact seamlessly. The app includes group chats, personal chats, post creation, event registration, and video call room features.
 
@@ -24,8 +23,16 @@ Key Features:
 
 · User Profile: Users can view their own profile information and manage their account settings.
 
+
 · Log Out: The app provides a seamless logout option for users whenever they wish to sign out.
 
+How to install:
+
+You can clone this repository but then you will have to create your own Firebase database and add your own google.json file(delete the one already there in this repo). 
+Make sure you have the correct dependencies.
+
+How to run:
+
+You can run it using any IDE like android studio or VScode and use an Android emulator you like to run and install the application.
+
 Join this open-source project and contribute to building an engaging social media platform for users worldwide! 🌐👥
-
-
