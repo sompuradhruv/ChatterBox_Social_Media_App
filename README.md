@@ -28,4 +28,4 @@ Key Features:
 
 Join this open-source project and contribute to building an engaging social media platform for users worldwide! 🌐👥
 
-Get started: [Link to GitHub repository]
+
