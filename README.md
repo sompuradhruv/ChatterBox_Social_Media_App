@@ -35,3 +35,32 @@ Make sure you have the correct dependencies.
 You can run it using any IDE like android studio or VScode and use an Android emulator you like to run and install the application.
 
 ##### Join this open-source project and contribute to building an engaging social media platform for users worldwide! 🌐👥
+
+### Here are some samples of the app:
+
+#### Login and SignUp Pages:
+
+![login](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/62d095b5-02e9-413c-832b-02c640627b38) ![signup](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/f39b438c-10fd-4f2f-9439-2acd8bfeb192)
+
+### Group chat:
+
+### Personal Chat:
+
+### Add Posts:
+
+![ezgif-5-6e70d653f5](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/a53e55d3-66dc-4f29-ada8-689ac2bead19)
+
+### Video Call:
+
+### Events Registration:
+
+![ezgif-5-48e861c713](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/2b706cd1-2439-4a05-86f6-a79f8afdf4bf)
+
+### Profile Section:
+
+![image](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/47d01a8c-2ffc-4e95-a7c2-509ed64429bd)![image](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/67d7422a-44e1-42a0-b5b9-4e283771bcc5)![image](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/882fa5f5-12d7-4491-b182-bd49c2036fa0)![image](https://github.com/sompuradhruv/ChatterBox_Social_Media_App/assets/78086198/bce2409b-df36-4c6a-8998-30f557538bcc)
+
+
+
+
+
